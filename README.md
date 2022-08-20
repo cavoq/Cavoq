@@ -1,6 +1,8 @@
+## About me
+
 - 👋 Hi, I’m @Dav3o
 - 👀 I’m interested in Math and Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studying Software Engineering
 - 📫 How to reach me: you can send an email to Davidstromberger99@gmx.de
 
 ## 🔧 Technologies & Tools
