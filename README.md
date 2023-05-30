@@ -1,9 +1,3 @@
-## About me
-
-- 👋 Hi, I’m @Dav3o
-- 👀 I’m interested in Math and Software Development, especially Backend Development
-- 🌱 I’m currently studying Software Engineering
-- 📫 How to reach me: you can send an email to Davidstromberger99@gmx.de
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
