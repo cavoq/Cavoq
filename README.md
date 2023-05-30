@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Qt-informational?style=flat&logo=Qt&logoColor=white&color=2bbc8a)
 
-[![Dav3o GitHub stats](https://github-readme-stats-jade-theta.vercel.app/api?username=Dav3o&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Cavoq GitHub stats](https://github-readme-stats-jade-theta.vercel.app/api?username=Cavoq&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Dav3o/Dav3o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
