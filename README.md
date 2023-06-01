@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-jade-theta.vercel.app/api?username=Cavoq&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats-jade-theta.vercel.app/api?username=Cavoq&show_icons=true&theme=github_dark" alt="GitHub Stats">
 </div>
 
 
