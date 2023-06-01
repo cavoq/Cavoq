@@ -8,7 +8,6 @@
 </p>
 
 <div align="center">
-  <br>
   <img src="https://github-readme-stats-jade-theta.vercel.app/api?username=Cavoq&show_icons=true&theme=dark" alt="GitHub Stats">
 </div>
 
