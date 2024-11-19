@@ -11,6 +11,12 @@
   <img src="https://github-readme-stats-jade-theta.vercel.app/api?username=Cavoq&show_icons=true&theme=github_dark" alt="GitHub Stats">
 </div>
 
+<div align="center">
+  <h2>👨‍💻 Currently Learning</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind" />
+  </a>
+</div>
 
 <!---
 Dav3o/Dav3o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
