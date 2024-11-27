@@ -14,7 +14,7 @@
 <div align="center">
   <h2>👨‍💻 Currently Learning</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=neovim,react,tailwind" />
   </a>
 </div>
 
