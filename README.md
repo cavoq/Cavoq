@@ -1,25 +1,23 @@
 
-<h2 align="center">Skills </h2>
+<h2 align="center">About</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,python,flask,docker,cpp,java,typescript,postgres" />
-  </a>
+  Security- and privacy-focused software engineer.
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats-jade-theta.vercel.app/api?username=Cavoq&show_icons=true&theme=github_dark" alt="GitHub Stats">
-</div>
+<p align="center">∴</p>
 
 <h2 align="center">Contact</h2>
 
 <p align="center">
+  💬 <a href="https://matrix.to/#/@cavoq:matrix.org">@cavoq:matrix.org</a><br>
   📧 <a href="mailto:cavoq@proton.me">cavoq@proton.me</a>
 </p>
 
 <p align="center">
-  🔑 PGP Fingerprint: <code>C9D9 3442 771D 2397 4B37 25D6 D029 D557 F2BD 48CC</code><br>
-  🗝️ <a href="https://keys.openpgp.org/search?q=cavoq@proton.me">View Public Key</a>
+  🔑 PGP Fingerprint<br>
+  <code>C9D9 3442 771D 2397 4B37 25D6 D029 D557 F2BD 48CC</code><br>
+  🗝️ <a href="https://keys.openpgp.org/search?q=cavoq@proton.me">Public key</a>
 </p>
 <!---<div align="center">
   <h2>👨‍💻 Currently Learning</h2>
