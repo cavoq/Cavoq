@@ -1,13 +1,15 @@
 <p align="center">
-  Security- and privacy-focused software engineer.
+  Security- and privacy-focused software engineer.<br>
+  Interested in robust systems and thoughtful software architecture.
 </p>
 
 <p align="center">
   <img
     src="assets/mark.svg"
     alt="Geometric mark"
-    width="210"
-    height="210"
+    width="800"
+    height="160"
+    style="margin-top: -10px;"
   />
 </p>
 
