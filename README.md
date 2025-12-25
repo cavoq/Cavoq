@@ -1,13 +1,8 @@
-
-<h2 align="center">About</h2>
-
 <p align="center">
   Security- and privacy-focused software engineer.
 </p>
 
 <p align="center">∴</p>
-
-<h2 align="center">Contact</h2>
 
 <p align="center">
   💬 <a href="https://matrix.to/#/@cavoq:matrix.org">@cavoq:matrix.org</a><br>
