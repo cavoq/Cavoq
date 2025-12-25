@@ -2,7 +2,10 @@
   Security- and privacy-focused software engineer.
 </p>
 
-<p align="center">∴</p>
+<p align="center">
+  <img src="assets/mark.svg" alt="Geometric mark" />
+</p>
+
 
 <p align="center">
   💬 <a href="https://matrix.to/#/@cavoq:matrix.org">@cavoq:matrix.org</a><br>
