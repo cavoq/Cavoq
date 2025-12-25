@@ -2,15 +2,25 @@
   Security- and privacy-focused software engineer.
 </p>
 
+<br>
+
 <p align="center">
-  <img src="assets/mark.svg" alt="Geometric mark" />
+  <img
+    src="assets/mark.svg"
+    alt="Geometric mark"
+    width="220"
+    height="220"
+  />
 </p>
 
+<br>
 
 <p align="center">
   💬 <a href="https://matrix.to/#/@cavoq:matrix.org">@cavoq:matrix.org</a><br>
   📧 <a href="mailto:cavoq@proton.me">cavoq@proton.me</a>
 </p>
+
+<br>
 
 <p align="center">
   🔑 PGP Fingerprint<br>
