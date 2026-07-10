@@ -24,9 +24,6 @@
   🗝️ <a href="https://keys.openpgp.org/search?q=cavoq@proton.me">Public key</a>
 </p>
 
-<p align="center">
-  🎓 Working in cybersecurity, pursuing a Master’s degree on the side.
-</p>
 <!---<div align="center">
   <h2>👨‍💻 Currently Learning</h2>
   <a href="https://skillicons.dev">
